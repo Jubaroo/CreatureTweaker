@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Constants.java" line="211" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22025289-ae39-43a4-b721-9e7837a25711" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="578029112">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.23" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="33" />
+          <entry key="java" value="84" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="33" />
+          <entry key="JAVA" value="84" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="java" value="8896" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8896" />
+          <entry key="PLAIN_TEXT" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1747387953">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26197">
+              <caret line="1553" column="58" selection-start-line="1553" selection-start-column="58" selection-end-line="1553" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60231">
+              <caret line="3550" column="52" selection-start-line="3550" selection-start-column="52" selection-end-line="3550" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/TemplateModifier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13328">
+              <caret line="787" column="35" lean-forward="true" selection-start-line="787" selection-start-column="35" selection-end-line="787" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Wurm JARS/server.jar!/com/wurmonline/server/creatures/CreatureTemplate.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>forestgiant</find>
+      <find>kyklops</find>
+      <find>goblin</find>
+      <find>f;</find>
+      <find>FireRadius = 0;</find>
+      <find>Spider</find>
+      <find>10052</find>
+      <find>10027</find>
+      <find>10006</find>
+      <find>GoblinLeader</find>
+      <find>1023</find>
+      <find>10064</find>
+      <find>TrollKing</find>
+      <find>BoarFo</find>
+      <find>GorillaMag</find>
+      <find>Anaconda</find>
+      <find>Hyena</find>
+      <find>Pig</find>
+      <find>createPigTemplate</find>
+      <find>BonusCombatRating = 0.0F;</find>
+      <find>human</find>
+      <find>leader</find>
+      <find>BonusCombatRating = ;</find>
+      <find>createHenTemplate</find>
+      <find>createDogTemplate</find>
+      <find>adult</find>
+      <find>armourType</find>
+      <find>createCalfTemplate</find>
+      <find>armour</find>
+      <find>ARMOUR_CLOTH</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>whiteDragon</replace>
+      <replace>blueDragonHatchling</replace>
+      <replace>redDragonHatchling</replace>
+      <replace>fogSpider</replace>
+      <replace>riftBeast</replace>
+      <replace>riftJackal</replace>
+      <replace>riftJackalriftOgre</replace>
+      <replace>riftWarmaster</replace>
+      <replace>riftOgreMage</replace>
+      <replace>riftCaster</replace>
+      <replace>riftSummoner</replace>
+      <replace>npcHuman</replace>
+      <replace>, String.valueOf</replace>
+      <replace>ButcheredItems&quot;, Arrays.toString</replace>
+      <replace>= ;</replace>
+      <replace>horse</replace>
+      <replace>rabidHyena</replace>
+      <replace>Glowing = false;</replace>
+      <replace>BreathDamString = &quot;breathe&quot;;</replace>
+      <replace>DenMaterial = 14;</replace>
+      <replace>KeepSex = false;</replace>
+      <replace>MeatMaterial = MATERIAL_MEAT_BEAR;</replace>
+      <replace>ArmourType = ARMOUR_CLOTH</replace>
+      <replace>CombatDamageType = Wound.TYPE_CRUSH</replace>
+      <replace>IsNoSkillgain = false;</replace>
+      <replace>F;</replace>
+      <replace>FireRadius = (byte)0;</replace>
+      <replace>BonusCombatRating = 1.0F;</replace>
+      <replace>sonOfNogump</replace>
+      <replace>ARMOUR_TYPE_CLOTH</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../taxidermy" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/dragonmountmod/creatures/drakes/RedDrake.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/CorpseModifier.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/AddCreatures.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/Config.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/Constants.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/Logging.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/creatures/Worg.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/TemplateModifier.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/SKills.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/configurator/TemplateVariables.java" />
+        <option value="$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Logging.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/TemplateVariables.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/SKills.java" />
+        <option value="$PROJECT_DIR$/src/CreatureTemplateCreator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Config.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/TemplateModifier.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Constants.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="685" />
+    <option name="y" value="55" />
+    <option name="width" value="1120" />
+    <option name="height" value="795" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CreatureTweaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatureTweaker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatureTweaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatureTweaker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatureTweaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatureTweaker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="creaturetweaker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CreatureTweaker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatureTweaker" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="creaturetweaker" type="462c0819:PsiDirectoryNode" />
+              <item name="configurator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537310397008" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jarrod Laptop\IdeaProjects\CreatureTweaker\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.requiem.mods.dragonmountmod.creatures" />
+      <recent name="org.requiem.mods.dragonmountmod.configurator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jarrod Laptop\IdeaProjects\CreatureTweaker" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22025289-ae39-43a4-b721-9e7837a25711" name="Default Changelist" comment="" />
+      <created>1536706251489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536706251489</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/creatures/hatchlings/RedHatchling.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/hgfd.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/CorpseModifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/requiem/mods/dragonmountmod/creatures/dragons/BlackDragon.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/creatures/Worg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/AddCreatures.java" />
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/creatures/CreatureTemplateFactory.class" />
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/creatures/CreatureTemplateIds.class" />
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/creatures/CreatureTemplateCreator.class" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Initiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" column="7" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/bodys/Wound.class" />
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/skills/Skills.class" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/TemplateVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/skills/SkillList.class" />
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/combat/CombatMove.class" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Skills.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Logging.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../1.7 Vanilla Common Files/server.jar!/com/wurmonline/server/creatures/CreatureTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/src/CreatureTemplateCreator.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26197">
+          <caret line="1553" column="58" selection-start-line="1553" selection-start-column="58" selection-end-line="1553" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/configurator/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60231">
+          <caret line="3550" column="52" selection-start-line="3550" selection-start-column="52" selection-end-line="3550" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Wurm JARS/server.jar!/com/wurmonline/server/creatures/CreatureTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="70" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/creaturetweaker/TemplateModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13328">
+          <caret line="787" column="35" lean-forward="true" selection-start-line="787" selection-start-column="35" selection-end-line="787" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CreatureTweaker</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Wurm JARS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
